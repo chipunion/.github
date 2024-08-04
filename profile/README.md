@@ -6,4 +6,4 @@
 
 The difference between this organization and traditional open source communities is that it focuses on non-technical matters. This is because we believe that correct guidance is more important than technology itself. For this reason, we plan to build a trinity organizational model of **[ChipCup + ChipFaire + ChipCon]**, that is, **[Competition + Activity + Conference]**, hoping to better spread the concept of open source chips through the collision of ideas.
 
-ChipUnion is an open source non-profit organization and has no affiliation with other open source organizations.
+ChipUnion is an open source non-profit organization. It has no affiliation with other open source organizations, scientific research institutions and enterprises. **We encourage all forms of cooperation, but any behavior that violates the open source license is unacceptable**. Finally, anyone who is interested in open source chips is welcome to join us and write a new chapter in the open source world!
